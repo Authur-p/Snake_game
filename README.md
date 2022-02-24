@@ -1,2 +1,2 @@
 # Snake_game
-sanke game built with python, using Tkinter
+sanke game built with python, using Turtle
